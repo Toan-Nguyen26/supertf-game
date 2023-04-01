@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6df91a8227fac0448c631f752a49e53, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  gameDataInfo:
+  - previousLocation: MainMenu
+    nextLocation: StartingRoomNew
+    x_cord: -953
+    y_cord: -539
+  - previousLocation: StartingRoomNew
+    nextLocation: StartingRoomNew
+    x_cord: -956.4294
+    y_cord: -538.9908
+  - previousLocation: StartingRoomNew
+    nextLocation: Hallway
+    x_cord: -951.94
+    y_cord: -538.39
+  - previousLocation: OldShockRoom
+    nextLocation: Hallway
+    x_cord: -954.89
+    y_cord: -539.53
+  - previousLocation: OldParentRoom
+    nextLocation: Hallway
+    x_cord: -957.3
+    y_cord: -539.53
+  - previousLocation: Gym
+    nextLocation: Hallway
+    x_cord: -953.77
+    y_cord: -537.66
+  - previousLocation: Jail
+    nextLocation: Hallway
+    x_cord: -956.08
+    y_cord: -537.56
+  - previousLocation: Museum
+    nextLocation: Hallway
+    x_cord: -958.52
+    y_cord: -537.48
+  - previousLocation: BirthdayRoom
+    nextLocation: Hallway
+    x_cord: -952.1
+    y_cord: -536.23
+  - previousLocation: Hallway
+    nextLocation: StartingRoomNew
+    x_cord: -958.96
+    y_cord: -538.71
+  - previousLocation: Hallway
+    nextLocation: OldShockRoom
+    x_cord: -952.55
+    y_cord: -538.22
+  - previousLocation: Hallway
+    nextLocation: OldParentRoom
+    x_cord: -953.1849
+    y_cord: -538.1744
+  - previousLocation: Hallway
+    nextLocation: Gym
+    x_cord: -955.43
+    y_cord: -542.3459
+  - previousLocation: Hallway
+    nextLocation: Jail
+    x_cord: -955.46
+    y_cord: -542.3459
+  - previousLocation: Hallway
+    nextLocation: Museum
+    x_cord: -955.4
+    y_cord: -543.8901
+  - previousLocation: Hallway
+    nextLocation: BirthdayRoom
+    x_cord: -955.37
+    y_cord: -541.41
+  gameDataPotraits:
+  - character: 0
+    character_sprites:
+    - {fileID: 21300000, guid: d91e9d24ccc9c594aa7772be00b3954e, type: 3}
+    - {fileID: 21300000, guid: d40d75072d457e6499d960660bc88d87, type: 3}
+    - {fileID: 21300000, guid: 6f7013d075051194ea4abe6338451eb0, type: 3}
+    - {fileID: 21300000, guid: bed0214001f5dc3419c7e4c9ac21f4f8, type: 3}
+    - {fileID: 21300000, guid: 20305d5487687ad46996206515457a71, type: 3}
+    - {fileID: 21300000, guid: 755e37dc5c50625498ae19b7ee647e29, type: 3}
+    - {fileID: 21300000, guid: 112b8c6ad79a98f42be3887afbca0a05, type: 3}
+    - {fileID: 21300000, guid: ff5b1f058705b2c4295a5fb2b8b2d821, type: 3}
+    sprite_x: -580
+    sprite_y: 76
+  - character: 1
+    character_sprites:
+    - {fileID: 21300000, guid: 3dede1f80f2a70d4bb424888fdb70f08, type: 3}
+    sprite_x: -650
+    sprite_y: 76
+  - character: 2
+    character_sprites:
+    - {fileID: 21300000, guid: 07a58074cf0417e478d8072c42cb59ab, type: 3}
+    sprite_x: -700
+    sprite_y: 76
+  - character: 3
+    character_sprites:
+    - {fileID: 21300000, guid: 680d0ed417ef31240a1d1b8419db59ea, type: 3}
+    sprite_x: -700
+    sprite_y: 76
+  - character: 4
+    character_sprites:
+    - {fileID: 21300000, guid: a1910a0475a89544fa02c68771a2609d, type: 3}
+    sprite_x: -700
+    sprite_y: 76
+  - character: 5
+    character_sprites:
+    - {fileID: 21300000, guid: 3d9df2824e1bd184bbb62e4f7a83816e, type: 3}
+    sprite_x: -580
+    sprite_y: 76
+  - character: 6
+    character_sprites:
+    - {fileID: 21300000, guid: 3a5cbcc99ef37514a93f2102984b2000, type: 3}
+    sprite_x: -580
+    sprite_y: 76
+  - character: 7
+    character_sprites:
+    - {fileID: 21300000, guid: a259dbdda4dbf974a9295b97ac5c4921, type: 3}
+    sprite_x: -750
+    sprite_y: 76
+  gameDataIllustrations:
+  - {fileID: 18428701809627068, guid: dd450b6453c9fa04faac306298bfacfa, type: 3}
+  gameSongs:
+  - {fileID: 8300000, guid: 91264e5cdaf6909418c7fde070a9c440, type: 3}
+  - {fileID: 8300000, guid: 6cff889441732a84fb9d3a2ea5eb561b, type: 3}
+  - {fileID: 8300000, guid: dfe718a9ea62a624eab47bc4df9341fc, type: 3}
+  - {fileID: 8300000, guid: 60dc4b423572cbb4597c2138ec6c03a3, type: 3}
+  - {fileID: 8300000, guid: 3603aa73a5393b7479cb6ea29eb9e727, type: 3}
+  - {fileID: 8300000, guid: 04e7de8395337ac4aafa171c63cd97e9, type: 3}

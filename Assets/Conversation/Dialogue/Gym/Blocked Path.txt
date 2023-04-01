@@ -1,0 +1,5 @@
+0;super;What is going on down here?;realize
+1;armstrong;Sorry stickbug, but you're not getting the permission into our exclusive conservative gym;armstrong
+0;stickbug;Why not? Surely my credentials speak for themselves...;default
+1;armstrong;I'll show you who's the boss of this gym...;armstrong
+0;stickbug;I'll be running along, sorry.;soyper

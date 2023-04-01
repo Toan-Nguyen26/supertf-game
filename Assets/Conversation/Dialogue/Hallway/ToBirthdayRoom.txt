@@ -1,0 +1,2 @@
+0;super;It's way too dark up there;soyper
+0;super;Maybe I can craft a light source from things around the house...;default

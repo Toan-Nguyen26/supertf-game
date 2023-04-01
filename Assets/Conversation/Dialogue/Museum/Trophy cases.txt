@@ -1,0 +1,4 @@
+0;super;What is this empty display?;default
+0;super;There's a placard below...;realize
+0;super;"2021 Overwatch League Championship Trophy";default
+0;super;"Ah geeze...";aware

@@ -1,0 +1,2 @@
+0;super;I can't leave this room. I think I'm locked in here;default
+0;super;There must be a switch on one of the displays in this corny room.;realize

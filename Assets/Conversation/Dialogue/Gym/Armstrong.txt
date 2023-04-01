@@ -1,0 +1,7 @@
+1;armstrong;What's up GIGASOY;armstrong
+0;GIGASOY;H... Hi;soyper
+1;armstrong;Skipping workout again today are we?;armstrong
+0;super;No? It's my rest day today , that's why I'm not working out;default
+1;armstrong;Pathetic. You should follow the example set by your stronger, more masculine sister 39Daph. She never skips a single day;armstrong
+1;armstrong;Oh, and your sister said to give to this to you, saying your bitch ass will need it;armstrong
+0;super;A candleholder? Perhaps an item I will need to progress...;default

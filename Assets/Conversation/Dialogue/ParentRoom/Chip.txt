@@ -1,0 +1,4 @@
+0;super;Huh, what is the spicy chip doing here?;default
+0;super;The smell is killing me, I'll never touch this shit again even if a gun is put against my head;default
+0;super;Looks like there's a piece of steel in the packet?;default
+0;super;What if I had swallowed that? Better take this with me, this could be a million dollar lawsuit.;happy

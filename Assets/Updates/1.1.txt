@@ -1,0 +1,13 @@
+8/8/22
+
+- Removed fading animation during scene transtion since I'm suck at doing animation , will add it back in the future
+
+- Added a control tab to show what buttons to press at new game
+- Added an inventory system and the ability for super to pick up item 
+
+- Changes to textbox function , so that multiple text box can't appear at the same time
+- Changes to the textbox sprite
+- Changes to the text font
+- Fix the audio volume between scene
+
+Garami

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: bf40a8868b4e6934e8632df37250f4d6
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/StartingRoomNew.unity
+    guid: 1d5a974ce0bb3e04287f91d60096aad4
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/Hallway.unity
+    guid: f12e001109a7d2c439420fbf40e2d367
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/OldShockRoom.unity
+    guid: 0f3c6886856a05d43bbab3ff737a4a6c
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/OldParentRoom.unity
+    guid: f6ddac1e699f522419becac925cca70a
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/Gym.unity
+    guid: 2c92906411d35a94f8329b2bfc7bb083
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/Jail.unity
+    guid: 79dd182fe5264ef4ba5b6f3d01fdebb0
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/Museum.unity
+    guid: 83a5a40f61aea0e4492cc9f047b82a68
+  - enabled: 1
+    path: Assets/Scenes/HouseStuff/BirthdayRoom.unity
+    guid: 0b5a96706ffed3d4297aee870b2f5141
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Credit.unity
+    guid: a9e38c02d66f0494ab5fd54f41e7f725
+  m_configObjects: {}

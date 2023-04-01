@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Transition
+  - Key
+  - Locked
+  - GameMusic
+  - Slider
+  - PauseGameObject
+  - SoundEffect
+  - Instruction
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PauseMenu
+  - Water
+  - UI
+  - NotPauseMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2721711919
+    locked: 0
+  - name: Back Object
+    uniqueID: 3413790793
+    locked: 0
+  - name: Back Cage Door
+    uniqueID: 4052935285
+    locked: 0
+  - name: Super
+    uniqueID: 3042854647
+    locked: 0
+  - name: Front Object
+    uniqueID: 3036860675
+    locked: 0
+  - name: Front Cage Door
+    uniqueID: 2081454305
+    locked: 0
+  - name: Question Mark
+    uniqueID: 227705745
+    locked: 0

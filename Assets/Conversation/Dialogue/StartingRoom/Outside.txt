@@ -1,0 +1,2 @@
+0;super;There's nothing to see outside of this door;default
+0;super;Other than Default Male living space template #30;default
